@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  background-color: aquamarine;
+  padding: 25px;
+  border: 2px solid black;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: 900;
+  justify-content: center;
+  text-align: center;
+  color: black;
+}
+#header {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
